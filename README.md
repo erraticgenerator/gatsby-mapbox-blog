@@ -1,6 +1,6 @@
 # Gatsby + Mapbox GL JS Blog
 
-
+![website demo](./demo.gif)
 
 Demo website:
 https://erraticgenerator.github.io/gatsby-mapbox-blog/
