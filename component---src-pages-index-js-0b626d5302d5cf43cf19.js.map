@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/index.js"],"names":["IndexPage"],"mappings":"2FAAA,gCAQeA,UANG,kBAChB,oCACE","file":"component---src-pages-index-js-0b626d5302d5cf43cf19.js","sourcesContent":["import React from \"react\"\n\nconst IndexPage = () => (\n  <>\n    <h1>My Travel Blog</h1>\n  </>\n)\n\nexport default IndexPage\n"],"sourceRoot":""}
