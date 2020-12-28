@@ -2,7 +2,7 @@
 
 ![website demo](./demo.gif)
 
-Demo website:
+Demo website:  
 https://erraticgenerator.github.io/gatsby-mapbox-blog/
 
 This is a bare minimum structure that uses Gatsbyjs + Mapbox GL JS + React hooks.
@@ -13,9 +13,9 @@ This is a bare minimum structure that uses Gatsbyjs + Mapbox GL JS + React hooks
 - Using Turf.js to get the bounding box of the markers.
 - Seamless transition animation between blog posts because the Map component only loads once.
 
-Read my process on:
-...
+Read my process on:  
+https://erraticgenerator.com/blog/gatsby-blog-with-mapbox-gl-js-using-react-hooks
 
-Or on Medium:
-...
+Or on Medium:  
+https://erraticgenerator.medium.com/gatsby-blog-with-mapbox-gl-js-using-react-hooks-694b8a846310
 
